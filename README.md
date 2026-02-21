@@ -1,4 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+<h3>Name: THARUN G </h3>
+<h3>Register Number:212224250019     </h3>
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
